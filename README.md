@@ -1,8 +1,11 @@
-![Yerson Cabrera](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1200&color=34D399&background=00000000&vCenter=true&multiline=false&repeat=true&width=360&height=55&lines=Yerson+Cabrera)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=3000&amp;pause=1200&amp;color=34D399&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=360&amp;height=55&amp;lines=Yerson+Cabrera" alt="Yerson Cabrera" />
+</p>
 
-*Self-taught. Still learning.*  
-🇵🇪 in 🇵🇪 · I practice MMA on Sundays 🥊
-
+<p align="center">
+  <em>Self-taught. Still learning.</em><br />
+  🇵🇪 in 🇵🇪 · I practice MMA on Sundays 🥊
+</p>
 
 ```css
 Backend       Python · FastAPI
