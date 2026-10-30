@@ -3,9 +3,6 @@
 *Self-taught. Still learning.*  
 🇵🇪 in 🇵🇪 · I practice MMA on Sundays 🥊
 
-![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=facc15)
-![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=flat-square&logo=fastapi&logoColor=34d399)
-![Shell](https://img.shields.io/badge/Shell-18181b?style=flat-square&logo=gnubash&logoColor=ffffff)
 
 ```css
 Backend       Python · FastAPI
