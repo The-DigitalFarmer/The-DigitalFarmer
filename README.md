@@ -7,7 +7,12 @@
   🇵🇪 in 🇵🇪 · I practice MMA on Sundays 🥊
 </p>
 
-```css
+---
+
+
+### Tech DNA
+
+```
 Backend       Python · FastAPI
 AI Tooling    MCP Servers · Claude Code · Cursor
 Architecture  Clean · Hexagonal · Screaming · SOLID
