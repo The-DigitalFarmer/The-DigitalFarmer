@@ -4,8 +4,7 @@
 
 <p align="center">
   <em>Self-taught Still learning</em><br />
-  I like to learn about any topic that sounds interesting
-  MMA fan👊
+  I enjoy learning about any topic that sounds interesting. MMA fan 👊
 </p>
 
 ---
