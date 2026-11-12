@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <em>Self-taught. Still learning.</em><br />
-  🇵🇪 in 🇵🇪 · I practice MMA on Sundays 🥊
+  <em>Self-taught Still learning</em><br />
+  I like to learn about any topic that sounds interesting
+  MMA fan👊
 </p>
 
 ---
